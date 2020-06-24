@@ -1,0 +1,1 @@
+This is a simple shopping cart app created via a follow along to help learn the MERN stack and deployment. I have been working the last few weeks to learn and gain more experiance in node.js and express.js I now want to refresh my knowledge of react as well as pickup some ui/ux technology before building a project myself.
